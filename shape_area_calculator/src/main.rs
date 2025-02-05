@@ -6,7 +6,7 @@ mod rectangle;
 mod circle;
 mod accept_input;
 fn main() {
-
+ 
     println!("*********** Welcome to my SHAPE AREA CALCULATOR ************\n\n");
     println!("Eneter the shape you whould like to compute the Area (rectangle[1] or circle[2])");
     let mut shape = String::new();

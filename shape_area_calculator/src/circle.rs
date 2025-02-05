@@ -1,4 +1,6 @@
 
+use crate::area_of_shape;
+
 pub struct Circle {
     pub rad: f64
  }

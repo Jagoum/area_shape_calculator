@@ -8,4 +8,4 @@ pub fn get_num(msg:&str) -> f64{
         Err(_) => {panic!("Expected a number ")},
     };
     num
-}
+} 
