@@ -1,0 +1,7 @@
+[package]
+name = "shape_area_calculator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+pi = "0.1.0"
