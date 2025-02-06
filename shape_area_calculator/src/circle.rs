@@ -6,6 +6,6 @@ pub struct Circle {
  }
  impl Area for Circle  {
     fn area(&self) -> f64 {
-        std::f64::consts::PI*self.rad
+        std::f64::consts::PI*self.rad*self.rad
     }
  }
